@@ -1,0 +1,3 @@
+mysql_cpu_usage,host=__HOSTNAME__,datacenter=dc1,os=linux __CPU__ __TIME__
+mysql_memory_usage,host=__HOSTNAME__,datacenter=dc1,os=linux __MEMORY__ __TIME__
+mysql_memory_usage,host=__HOSTNAME__,datacenter=dc1,os=linux __MEMORY__ __TIME__

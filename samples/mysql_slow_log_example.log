@@ -1,0 +1,5 @@
+# Time: __TIME__
+# User@Host: user[user] @ hostname [__HOSTNAME__]
+# Query_time: __QUERY_TIME__  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=__TIMESTAMP__;
+SELECT * FROM table_name WHERE column_name = 'value';
