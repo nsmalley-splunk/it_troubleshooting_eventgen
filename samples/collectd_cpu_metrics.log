@@ -1,0 +1,1 @@
+collectd.cpu,host=__HOSTNAME__,plugin_instance=__PLUGIN_INSTANCE__,type_instance=__TYPE_INSTANCE__ value=__CPU_VALUE__ __TIMESTAMP__
